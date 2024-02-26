@@ -31,7 +31,6 @@ To run the website locally, follow these steps:
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
-
 ## Usage
 
 Once the website is running, you can:
@@ -46,7 +45,7 @@ Once the website is running, you can:
 Feel free to customize the website to suit your preferences. You can:
 
 - Modify the content of each section to reflect your own information and projects.
-- Change the styling by editing the CSS files in the `dist/css` directory.
+- Change the styling by editing the CSS files in the `assets/css` directory.
 - Add additional functionality or features using JavaScript.
 
 ## Credits
@@ -76,4 +75,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
